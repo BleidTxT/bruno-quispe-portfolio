@@ -1,0 +1,12 @@
+:host { display: block; }
+
+.hero-art { background: linear-gradient(90deg, rgba(4, 18, 36, .3), rgba(4, 18, 36, .05)), url('/assets/portfolio-banner.jpeg') center / cover no-repeat; }
+.art-grid { background-image: linear-gradient(#9bd9ff17 1px, transparent 1px), linear-gradient(90deg, #9bd9ff17 1px, transparent 1px); }
+.art-orbit { border-color: #75caff55; }
+.code-card { box-shadow: 0 24px 45px #06132688; }
+.profile-photo { position: absolute; z-index: 1; width: 112px; height: 112px; left: 26px; bottom: 29px; object-fit: cover; object-position: center 35%; border: 4px solid #f5f9fc; border-radius: 50%; box-shadow: 0 10px 28px #06132688; }
+.contact-links { position: relative; z-index: 1; display: flex; flex-wrap: wrap; gap: 11px 22px; margin-top: 28px; }
+.contact-links a { color: #e1eff9; font-size: 11px; transition: color .2s; }
+.contact-links a:hover { color: var(--lime); }
+@media (max-width: 600px) { .profile-photo { width: 78px; height: 78px; left: 13px; bottom: 22px; border-width: 3px; } .contact-links { flex-direction: column; gap: 13px; } }
+
