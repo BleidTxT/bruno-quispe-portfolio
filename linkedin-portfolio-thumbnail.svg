@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="627" viewBox="0 0 1200 627" role="img" aria-labelledby="title desc">
+<title id="title">Portafolio profesional de Bruno Quispe</title>
+<desc id="desc">Desarrollador de software junior, proyectos web y móviles.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0c1426"/><stop offset="1" stop-color="#15303b"/></linearGradient><linearGradient id="accent" x2="1" y2="1"><stop stop-color="#68e0cf"/><stop offset="1" stop-color="#72a7ff"/></linearGradient></defs>
+<rect width="1200" height="627" fill="url(#bg)"/><circle cx="1040" cy="300" r="260" fill="#68e0cf" opacity=".08"/><circle cx="1130" cy="80" r="180" fill="#72a7ff" opacity=".08"/>
+<g font-family="Inter,Segoe UI,Arial,sans-serif">
+<rect x="72" y="70" width="66" height="66" rx="20" fill="url(#accent)"/><text x="105" y="113" text-anchor="middle" font-size="25" font-weight="800" fill="#102034">BQ</text>
+<text x="160" y="113" font-size="20" font-weight="650" letter-spacing="1.5" fill="#d5e1e9">BRUNO QUISPE</text>
+<rect x="72" y="194" width="8" height="140" rx="4" fill="url(#accent)"/>
+<text x="112" y="220" font-size="18" font-weight="750" letter-spacing="3.5" fill="#78ddcf">PORTAFOLIO PROFESIONAL</text>
+<text x="108" y="294" font-size="57" font-weight="760" fill="#f5f8fb">Desarrollador de</text>
+<text x="108" y="359" font-size="57" font-weight="760" fill="#f5f8fb">software <tspan fill="#78ddcf">junior</tspan></text>
+<text x="112" y="414" font-size="21" fill="#b9c8d3">Proyectos web · aplicaciones móviles</text>
+<g font-size="17" font-weight="650" text-anchor="middle">
+<rect x="112" y="462" width="135" height="46" rx="23" fill="#ffffff" opacity=".1"/><text x="179" y="491" fill="#e1edf2">Angular</text>
+<rect x="263" y="462" width="157" height="46" rx="23" fill="#ffffff" opacity=".1"/><text x="341" y="491" fill="#e1edf2">TypeScript</text>
+<rect x="436" y="462" width="145" height="46" rx="23" fill="#ffffff" opacity=".1"/><text x="508" y="491" fill="#e1edf2">Node.js</text>
+<rect x="597" y="462" width="126" height="46" rx="23" fill="#ffffff" opacity=".1"/><text x="660" y="491" fill="#e1edf2">MySQL</text>
+</g>
+<g transform="translate(800 150)"><rect x="0" y="0" width="300" height="300" rx="150" fill="#ffffff" opacity=".045" stroke="#ffffff" stroke-opacity=".12"/><circle cx="150" cy="150" r="113" fill="none" stroke="url(#accent)" stroke-width="2" stroke-dasharray="4 12" opacity=".8"/><path d="M108 123l-39 27 39 27M192 123l39 27-39 27M169 101l-38 98" fill="none" stroke="url(#accent)" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/><circle cx="150" cy="150" r="7" fill="#f5f8fb"/></g>
+<text x="112" y="568" font-size="17" font-weight="600" fill="#78ddcf">bleidtxt.github.io/bruno-quispe-portfolio</text>
+</g></svg>
